@@ -1,0 +1,23 @@
+#detailbox2{
+    margin-top: 50px;
+    margin-left:500px;
+    background-color: white;
+    text-align: center;
+    color:black;
+    font-family: Lobster, monospace;
+
+    width: 500px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin: 10px 5px;
+      padding: 4px;
+      margin-left:400px;
+      box-shadow: 3px 3px;
+      background-color: #f7f3df;
+      
+
+  }
+
+  body{
+    background-image: url(../img/mn.jpg);
+  }
